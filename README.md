@@ -1,10 +1,8 @@
-# Getting Started with Create React App
+## Robert Weather app
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+this app will display the weather of a city that you search!
 
-## Available Scripts
-
-In the project directory, you can run:
+I user Vercel. How ever the api 
 
 ### `npm start`
 

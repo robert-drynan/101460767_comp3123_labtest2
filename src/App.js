@@ -17,7 +17,7 @@ function App() {
   }, [city]);
 
   const fetchWeather = async () => {
-      const url = `http://api.openweathermap.org/data/2.5/weather?q=${city}&APPID=${API_KEY}&units=metric`;
+      const url = `https://api.openweathermap.org/data/2.5/weather?q=${city}&APPID=${API_KEY}&units=metric`;
     try{
       const respnse = await fetch(url);
       const weatherData = await respnse.json();
