@@ -6,7 +6,7 @@ and my Api is Open weather map
 
 I user Vercel to deploy
 
-![Weather App Screenshot](public/screenshot.png)
+![Weather App Screenshot](public/Screenshot.png)
 
 ### `npm start`
 
