@@ -2,7 +2,11 @@
 
 this app will display the weather of a city that you search!
 
-I user Vercel. How ever the api 
+and my Api is Open weather map
+
+I user Vercel to deploy
+
+![Weather App Screenshot](public/screenshot.png)
 
 ### `npm start`
 
